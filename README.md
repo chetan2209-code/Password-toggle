@@ -1,4 +1,6 @@
 ## Password Toggle ##
+A simple and responsive Password Toggle project built using HTML, CSS, and JavaScript. This project allows users to show or hide their password by clicking an eye icon, improving usability while maintaining a clean interface.
+
 *Technology used*
 
 - HTML5
