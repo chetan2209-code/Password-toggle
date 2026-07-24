@@ -7,3 +7,10 @@ A simple and responsive Password Toggle project built using HTML, CSS, and JavaS
 - JavaScript
 
 **LIVE LINK:** https://chetan2209-code.github.io/Password-toggle/
+
+✨ Features
+- 👁️ Show/Hide password with a single click
+- 🔒 Toggle between hidden and visible password
+- 📱 Responsive design
+- ⚡ Instant UI update without page reload
+- 🎯 Beginner-friendly JavaScript project
