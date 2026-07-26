@@ -19,4 +19,7 @@ A simple and responsive Password Toggle project built using HTML, CSS, and JavaS
 
   1. Enter a password in the input field.
   2. Click the eye icon.
-  3. 
+  3. The password switches between:
+     - Hidden (password)
+     - Visible (text)
+  4. Click again to hide it.
