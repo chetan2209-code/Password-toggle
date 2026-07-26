@@ -14,3 +14,9 @@ A simple and responsive Password Toggle project built using HTML, CSS, and JavaS
 - 📱 Responsive design
 - ⚡ Instant UI update without page reload
 - 🎯 Beginner-friendly JavaScript project
+
+  # How It Works
+
+  1. Enter a password in the input field.
+  2. Click the eye icon.
+  3. 
